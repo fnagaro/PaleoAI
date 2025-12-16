@@ -1,0 +1,5 @@
+{
+  "name": "PaleoAI - Archivo de Indias Transcriber",
+  "description": "An AI-powered tool specifically tuned for transcribing historical Spanish manuscripts from the Archivo de Indias using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
